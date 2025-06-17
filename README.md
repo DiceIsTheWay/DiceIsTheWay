@@ -31,6 +31,18 @@ Welcome to my GitHub! I'm a Mechatronics Engineering graduate (Class of 2023, GP
 > EDA and dashboard design for gym performance insight using `Tableau`, `Pandas`, and `Scipy`.
 
 ---
+
+## 🎓 Education
+
+**Politeknik Elektronika Negeri Surabaya**  
+Bachelor of Applied Mechatronics Engineering – *GPA: 3.34/4.00*  
+> Thesis: *Robot @Home Arm Manipulator Movement Control Based on Camera Perception*
+
+**Hacktiv8 Bootcamp – Full Time Data Science Program** 
+> Final Project: *ChAllo – Allo Bank Chatbot Assistant*
+
+---
+
 ## 💼 Professional Experience
 
 ### 🔧 Preventive Maintenance Technician  
@@ -41,17 +53,6 @@ Welcome to my GitHub! I'm a Mechatronics Engineering graduate (Class of 2023, GP
 ### 🏭 Internship  
 **PT. PJB O&M Paiton Unit 9** – *Jan 2019 – Apr 2019*  
 - Studied steam power plant workflow and built a prototype Arduino-based temperature control system  
-
----
-
-## 🎓 Education
-
-**Politeknik Elektronika Negeri Surabaya**  
-Bachelor of Applied Mechatronics Engineering – *GPA: 3.34/4.00*  
-> Thesis: *Robot @Home Arm Manipulator Movement Control Based on Camera Perception*
-
-**Hacktiv8 Bootcamp – Full Time Data Science Program ** 
-> Final Project: *ChAllo – Allo Bank Chatbot Assistant*
 
 ---
 
