@@ -50,7 +50,7 @@ Welcome to my GitHub! I'm a Mechatronics Engineering graduate (Class of 2023, GP
 Bachelor of Applied Mechatronics Engineering – *GPA: 3.34/4.00*  
 > Thesis: *Robot @Home Arm Manipulator Movement Control Based on Camera Perception*
 
-**Hacktiv8 Bootcamp – Full Time Data Science ** 
+**Hacktiv8 Bootcamp – Full Time Data Science Program ** 
 > Final Project: *ChAllo – Allo Bank Chatbot Assistant*
 
 ---
